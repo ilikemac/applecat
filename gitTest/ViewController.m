@@ -19,6 +19,7 @@
     NSLog(@"test");
     NSLog(@"TEST2");
     // Do any additional setup after loading the view, typically from a nib.
+    //GIT TEST
 }
 
 - (void)didReceiveMemoryWarning {
