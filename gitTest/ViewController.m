@@ -23,6 +23,7 @@
     NSLog(@"TEST2");
     [Reachability dealloc];
     
+
     
     NSURLSessionConfiguration *configuration = [NSURLSessionConfiguration defaultSessionConfiguration];
     AFURLSessionManager *manager = [[AFURLSessionManager alloc] initWithSessionConfiguration:configuration];
