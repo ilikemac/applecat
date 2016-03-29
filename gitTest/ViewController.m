@@ -15,6 +15,7 @@
 @implementation ViewController
 
 - (void)viewDidLoad {
+    //test
     [super viewDidLoad];
     NSLog(@"test");
     NSLog(@"TEST2");
